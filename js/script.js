@@ -9,7 +9,7 @@ editor.setOptions({
   autoScrollEditorIntoView: true,
 });
 // white editor read only
-// gitw
+// gitw df
 ace.require("ace/ext/language_tools");
 var editor = ace.edit("editor1");
 editor.setTheme("ace/theme/white");
